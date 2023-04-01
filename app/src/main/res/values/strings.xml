@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FangMich</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">50</string>
+    <string name="unkown">Unkown User</string>
+    <string name="DOWN">↓</string>
+    <string name="UP">↑</string>
+    <string name="quit">QUIT</string>
+    <string name="reset">RESET</string>
+    <string name="addu">USERADD</string>
+    <string name="timezero">00:00</string>
+</resources>
